@@ -1,0 +1,28 @@
+
+.slideshow{
+margin-left: 1%;
+    height:100%;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px,1fr));
+	grid-gap: 0.5em;;
+}
+h3{
+    text-align: center;
+}
+.navbar{
+    text-decoration: none;
+}
+
+.footer{
+    text-align: center;
+ 
+}
+.footer img{
+    width: 80px;
+}
+.cards .row .card .col img{
+    width: 600px;
+    
+}
